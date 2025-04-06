@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uj.wmii.pwj.w7.insurance.FloridaInsuranceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-12-10T09:30:23" hostname="LAPTOP-M5N62B2M" time="0.045">
+  <properties/>
+  <testcase name="checkTiv2012()" classname="uj.wmii.pwj.w7.insurance.FloridaInsuranceTest" time="0.03"/>
+  <testcase name="checkMostValuable()" classname="uj.wmii.pwj.w7.insurance.FloridaInsuranceTest" time="0.005"/>
+  <testcase name="checkCount()" classname="uj.wmii.pwj.w7.insurance.FloridaInsuranceTest" time="0.004"/>
+  <system-out><![CDATA[94186164102.03
+country,value
+MIAMI DADE COUNTY,2882965581.64
+BROWARD COUNTY,1578082896.54
+HILLSBOROUGH COUNTY,1527164673.79
+PALM BEACH COUNTY,1408934392.13
+DUVAL COUNTY,1126022307.03
+ORANGE COUNTY,616096089.04
+PINELLAS COUNTY,507638763.66
+POLK COUNTY,456782521.59
+PASCO COUNTY,367787800.71
+COLLIER COUNTY,350520648.35
+67
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
