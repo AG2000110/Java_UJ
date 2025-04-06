@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uj.wmii.pwj.introduction.HelloWorldTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-10-10T07:34:05" hostname="LAPTOP-M5N62B2M" time="0.147">
+  <properties/>
+  <testcase name="fourParams()" classname="uj.wmii.pwj.introduction.HelloWorldTest" time="0.132"/>
+  <testcase name="emptyParams()" classname="uj.wmii.pwj.introduction.HelloWorldTest" time="0.003"/>
+  <testcase name="oneParam()" classname="uj.wmii.pwj.introduction.HelloWorldTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
