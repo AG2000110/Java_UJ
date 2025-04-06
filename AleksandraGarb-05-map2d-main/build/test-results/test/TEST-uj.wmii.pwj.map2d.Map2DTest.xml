@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uj.wmii.pwj.map2d.Map2DTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2024-11-14T09:09:31" hostname="LAPTOP-M5N62B2M" time="0.206">
+  <properties/>
+  <testcase name="fillMapFromColumn()" classname="uj.wmii.pwj.map2d.Map2DTest" time="0.12"/>
+  <testcase name="columnView()" classname="uj.wmii.pwj.map2d.Map2DTest" time="0.003"/>
+  <testcase name="copyWithConversionMerge()" classname="uj.wmii.pwj.map2d.Map2DTest" time="0.01"/>
+  <testcase name="copyWithConversion()" classname="uj.wmii.pwj.map2d.Map2DTest" time="0.005"/>
+  <testcase name="putAll()" classname="uj.wmii.pwj.map2d.Map2DTest" time="0.005"/>
+  <testcase name="putGet()" classname="uj.wmii.pwj.map2d.Map2DTest" time="0.002"/>
+  <testcase name="remove()" classname="uj.wmii.pwj.map2d.Map2DTest" time="0.003"/>
+  <testcase name="rowMapView()" classname="uj.wmii.pwj.map2d.Map2DTest" time="0.002"/>
+  <testcase name="containsValueRowColumnKey()" classname="uj.wmii.pwj.map2d.Map2DTest" time="0.002"/>
+  <testcase name="emptyClearSize()" classname="uj.wmii.pwj.map2d.Map2DTest" time="0.003"/>
+  <testcase name="putAllToColumn()" classname="uj.wmii.pwj.map2d.Map2DTest" time="0.002"/>
+  <testcase name="fillMapFromRow()" classname="uj.wmii.pwj.map2d.Map2DTest" time="0.002"/>
+  <testcase name="putThrowsNPE()" classname="uj.wmii.pwj.map2d.Map2DTest" time="0.002"/>
+  <testcase name="getOrDefault()" classname="uj.wmii.pwj.map2d.Map2DTest" time="0.001"/>
+  <testcase name="rowView()" classname="uj.wmii.pwj.map2d.Map2DTest" time="0.003"/>
+  <testcase name="columnMapView()" classname="uj.wmii.pwj.map2d.Map2DTest" time="0.004"/>
+  <testcase name="putAllToRow()" classname="uj.wmii.pwj.map2d.Map2DTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
