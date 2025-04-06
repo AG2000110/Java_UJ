@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uj.wmii.pwj.exec.ExecServiceTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2024-12-03T13:32:08" hostname="LAPTOP-M5N62B2M" time="1.06">
+  <properties/>
+  <testcase name="testScheduleRunnable()" classname="uj.wmii.pwj.exec.ExecServiceTest" time="0.044"/>
+  <testcase name="testExecute()" classname="uj.wmii.pwj.exec.ExecServiceTest" time="0.019"/>
+  <testcase name="testIsShutdown()" classname="uj.wmii.pwj.exec.ExecServiceTest" time="0.003"/>
+  <testcase name="testInvokeAll()" classname="uj.wmii.pwj.exec.ExecServiceTest" time="0.008"/>
+  <testcase name="testInvokeAny()" classname="uj.wmii.pwj.exec.ExecServiceTest" time="0.317"/>
+  <testcase name="testShutdown2()" classname="uj.wmii.pwj.exec.ExecServiceTest" time="0.014"/>
+  <testcase name="testInvokeAll_time()" classname="uj.wmii.pwj.exec.ExecServiceTest" time="0.307"/>
+  <testcase name="testShutdown()" classname="uj.wmii.pwj.exec.ExecServiceTest" time="0.015"/>
+  <testcase name="testScheduleCallable()" classname="uj.wmii.pwj.exec.ExecServiceTest" time="0.03"/>
+  <testcase name="testIsTerminated()" classname="uj.wmii.pwj.exec.ExecServiceTest" time="0.001"/>
+  <testcase name="testInvokeAny_time()" classname="uj.wmii.pwj.exec.ExecServiceTest" time="0.262"/>
+  <testcase name="testScheduleRunnableWithResult()" classname="uj.wmii.pwj.exec.ExecServiceTest" time="0.014"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
